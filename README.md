@@ -26,10 +26,7 @@ How to run
 
 3. open program
 
-- Open Mahram In Islam.pl with SWI-Prolog Then ues :- <br />
-          mohram_male(X,Y) or mohram_female(X,Y) or mohram(X,Y).
-- X is required to find a mahram for him.
-- Y is name of mahram.
+- Open "*.pl" with SWI-Prolog.
 
 ===========
 
